@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 int main(){
-   // int m=10;
-   // cout<<&m;
-   cout<<"Hellloo";
+     int m=10;
+    cout<<&m;
+   
     return 0;
 }
