@@ -2,7 +2,8 @@
 using namespace std;
 int main(){
      int m=10;
-    cout<<&m;
+    int *ptr=&m;
+    cout<<ptr;
    
     return 0;
 }
