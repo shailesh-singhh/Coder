@@ -6,7 +6,7 @@ int fib(int n){
     return fib(n-1)+fib(n-2);
 }
 int main(){
-    int result = fib(8);
+    int result = fib(10);
     cout<<"fibonoci number is : "<<result<<endl;
     return 0;
     }
