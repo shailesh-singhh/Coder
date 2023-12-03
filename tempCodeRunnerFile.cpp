@@ -1,0 +1,1 @@
+ // cout<<"The number is: "<<n<<endl;
