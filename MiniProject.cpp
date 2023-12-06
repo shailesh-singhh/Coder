@@ -46,6 +46,7 @@ class player {
 
     player obj1;
     do{
+        system("cls");
         cout<<"-----------------MAIN MENU-------------------------"<<endl;
         cout<<"1 :Input Player Data "<<endl;
         cout<<"2 : Displsy the Player Data "<<endl;
