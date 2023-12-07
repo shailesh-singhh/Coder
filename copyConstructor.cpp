@@ -17,7 +17,7 @@ void get(){
 }
 void show(){
     cout<<"The Roll No. : "<<rollno<<endl;
-    cout<<"The Name is: "<<name<<endl;
+    cout<<"The Name is : "<<name<<endl;
     cout<<"The marks is : "<<marks<<endl;
 }
 };
