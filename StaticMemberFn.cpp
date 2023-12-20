@@ -16,6 +16,7 @@ int main(){
       
 Counter obj1;
 Counter obj2;
+Counter obj3;
 obj1.show();
 
 }
