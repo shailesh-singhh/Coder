@@ -9,11 +9,12 @@ class parent{
 class child : public parent{
     public: 
     void show(){
-        cout<<"This is parent class show method ."<<endl;
+        parent::show();
+        cout<<"This is child class show method ."<<endl;
     }
 };
 int main(){
     child obj;
     obj.show();
-    obj.parent::show();
+   
 }
