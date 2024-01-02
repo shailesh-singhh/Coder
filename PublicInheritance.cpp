@@ -7,9 +7,7 @@ class parent{
     int b;
     int a;
     public:
-    int c;
-    
-    
+    int c;   
 };
 class child : public parent{
     public:
